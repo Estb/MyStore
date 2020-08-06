@@ -31,7 +31,7 @@ yarn install
 yarn start
 ```
 
-API => to `http://localhost:3001/`
+API => to `http://localhost:3000/`
 
 
 ## Development
